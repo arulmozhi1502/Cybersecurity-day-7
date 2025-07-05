@@ -2,14 +2,14 @@
 
 --
 
-✅ Objective
-To inspect, identify, and remove any unused or potentially harmful browser extensions using a common browser like Chrome or Firefox.
+# Objective
+- To inspect, identify, and remove any unused or potentially harmful browser extensions using a common browser like Chrome or Firefox.
 
-🛠️ Tools Required
-Google Chrome or Mozilla Firefox (or any modern browser)
+# =Tools Required
+- Google Chrome or Mozilla Firefox (or any modern browser)
 
 # Step-by-Step Guide
-🔎 1. Open the Extension Manager
+## 1. Open the Extension Manager
 For Chrome:
 - Go to: chrome://extensions
 
